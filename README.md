@@ -90,6 +90,7 @@ And used:
 ## <a name="Experience">Experience</a>
 
 **WorksHub** (Oct 2018 to Oct 2019) 
+
 *Talent Manager for JavaScript Works* 
 
 WorksHub is a technology recruitment company with a hiring platform that uses chatbots, matching algorithms, and open-source data.
@@ -100,6 +101,7 @@ WorksHub is a technology recruitment company with a hiring platform that uses ch
 - I worked alongside our in-house development team - Attending product meetings, collecting user data and providing feedback on our user experience
 
 **FMCG Executive** (September 2016 to August 2018) 
+
 *Senior Talent Manager* 
 
 FMCG Executive is an executive search recruitment agency focused on delivering mid-level to executive talent across the consumer goods industry.
